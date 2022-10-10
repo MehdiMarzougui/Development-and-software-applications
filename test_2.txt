@@ -1,4 +1,4 @@
 Test pull 
 hello world
 staged info
-new branch info
+new branch info 
