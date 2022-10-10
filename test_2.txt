@@ -1,2 +1,4 @@
 Test pull 
 hello world
+staged info
+new branch info
